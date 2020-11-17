@@ -75,6 +75,10 @@ ul{
     color: var(--text-gray);
 }
 
+.collapse{
+    height: 30rem;
+}
+
 .nav .nav-items{
     display: flex;
     margin: 0;
