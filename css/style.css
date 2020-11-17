@@ -120,6 +120,14 @@ ul{
     color: #a1c4cf;
 }
 
+/*main content*/
+
+main .site-title{
+    background:url('../assets/Background-image.png') ;
+    background-size: cover;
+    height: 110vh;
+}
+
 /* less or equal to 750px*/
 
 @media only screen and (max-width: 750px){
