@@ -49,12 +49,21 @@ h1{
 
 h2{
     font-family: var(--Lexend);
-    
+
 }
 
 h3{
     font-family: var(--Abel);
     font-size: 1.3rem;
+}
+
+button.btn{
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem;
+    font-size: 1rem;
+    font-family: var(--Livvic);
+    cursor: pointer;
 }
 
 /*navbar*/
@@ -156,7 +165,7 @@ main .site-title h1, h3{
 
 main .site-title .btn{
     margin: 1.8rem;
-    background: var(--white);
+    background: var(--sky);
 }
 
 main .site-title .btn:hover{
