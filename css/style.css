@@ -64,6 +64,7 @@ button.btn{
     font-size: 1rem;
     font-family: var(--Livvic);
     cursor: pointer;
+    outline: none;
 }
 
 span{
