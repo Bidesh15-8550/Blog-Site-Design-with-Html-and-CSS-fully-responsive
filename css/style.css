@@ -238,6 +238,16 @@ section .container .owl-nav{
     color: var(--midnight) ;
 }
 
+.owl-theme .owl-nav [class*='owl-']{
+    outline: none;
+}
+
+main .site-content{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+
 /* less or equal to 750px*/
 
 @media only screen and (max-width: 750px){
