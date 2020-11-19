@@ -74,6 +74,10 @@ span{
     margin: 0 5vw;
 }
 
+.text-gray{
+    color: var(--text-gray);
+}
+
 /*navbar*/
 .nav{
     background:#CAD3C8;
@@ -245,6 +249,16 @@ section .container .owl-nav{
 main .site-content{
     display: grid;
     grid-template-columns: 70% 30%;
+}
+
+main .post-content{
+    width: 100%;
+    margin-bottom: 5rem;
+}
+
+main .site-content ,.post-content > .post-image, .post-title{
+    padding: 1rem 2rem;
+    position: relative;
 }
 
 
