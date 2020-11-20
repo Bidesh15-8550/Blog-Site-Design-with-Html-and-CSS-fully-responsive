@@ -305,6 +305,19 @@ main .post-content .post-title a{
 
 }
 
+.site-content .pagination{
+    justify-content: center;
+    color: var(--text-gray);
+    margin: 4rem 0;
+}
+
+.site-content .pagination a{
+    padding: .6rem .9rem;
+    border-radius: 2rem;
+    margin: 0 .3rem;
+    font-family: var(--Lexend);
+}
+
 /*........x.........main content..........x........*/
 
 /* less or equal to 750px*/
