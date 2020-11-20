@@ -79,6 +79,11 @@ span{
     color: var(--text-gray);
 }
 
+p{
+    font-family: var(--Lexend);
+    color: var(--text-light) ;
+}
+
 /*navbar*/
 .nav{
     background:#CAD3C8;
