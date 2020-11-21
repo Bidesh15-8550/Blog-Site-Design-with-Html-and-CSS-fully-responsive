@@ -424,6 +424,10 @@ footer.footer .container > div{
     padding: 3rem .9rem;
 }
 
+footer.footer .container .about-us h2{
+    color: var(--white);
+}
+
 /*........X.......Footer......X.........*/
 
 
