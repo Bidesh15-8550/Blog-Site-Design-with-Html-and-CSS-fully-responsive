@@ -399,9 +399,26 @@ main .post-content .post-title a{
     margin: .4rem .6rem;
 }
 
+
 /*.....X.....Sidebar.......X....*/
 
 /*........x.........main content..........x........*/
+
+
+/*Footer*/
+
+footer.footer{
+    height: 100%;
+    background: var(--bg-color);
+    position: relative;
+}
+
+footer.footer .container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+/*........X.......Footer......X.........*/
 
 
 
