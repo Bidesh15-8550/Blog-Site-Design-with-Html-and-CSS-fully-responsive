@@ -447,7 +447,19 @@ footer.footer .newsletter .form-element span{
     background: var(--sky);
     padding: .5rem .7rem;
     cursor: pointer;
+}
 
+footer.footer .instagram div> img{
+    display: inline-block;
+    width: 25%;
+    height: 50%;
+    margin: .3rem .4rem;
+}
+
+footer.footer .follow div i{
+    color: var(--white);
+    padding: 0 .4rem;
+    
 }
 
 /*........X.......Footer......X.........*/
