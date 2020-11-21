@@ -424,7 +424,7 @@ footer.footer .container > div{
     padding: 3rem .9rem;
 }
 
-footer.footer .container .about-us h2{
+footer.footer .container h2{
     color: var(--white);
 }
 
@@ -440,6 +440,14 @@ footer.footer .newsletter .form-element input{
     color: white;
     font-family: var(--Josefin);
     font-size: 1rem;
+    width: 74%;
+}
+
+footer.footer .newsletter .form-element span{
+    background: var(--sky);
+    padding: .5rem .7rem;
+    cursor: pointer;
+
 }
 
 /*........X.......Footer......X.........*/
