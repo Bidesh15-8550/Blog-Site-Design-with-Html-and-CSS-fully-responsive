@@ -365,7 +365,7 @@ main .post-content .post-title a{
 }
 
 .site-content .sidebar .newsletter{
-    padding-top: 3rem;
+    padding-top: 10rem;
 }
 
 .site-content .sidebar .newsletter .form-element{
@@ -387,6 +387,11 @@ main .post-content .post-title a{
     background: var(--sky) ;
 
 }
+
+.site-content .sidebar .popular-tags{
+    padding: 4rem 0;
+}
+
 /*.....X.....Sidebar.......X....*/
 
 /*........x.........main content..........x........*/
