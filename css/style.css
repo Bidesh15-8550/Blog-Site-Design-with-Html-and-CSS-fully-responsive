@@ -466,6 +466,15 @@ footer.footer .rights{
     font-family: var(--Josefin);
 }
 
+footer.footer .move-up{
+    position: absolute;
+    right: 6%;
+    top: 50%;
+}
+
+footer.footer .move-up span{
+    color: var(--midnight);
+}
 
 
 /*........X.......Footer......X.........*/
