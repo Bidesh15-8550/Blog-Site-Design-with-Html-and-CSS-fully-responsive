@@ -476,6 +476,11 @@ footer.footer .move-up span{
     color: var(--midnight);
 }
 
+footer.footer .move-up span:hover{
+    color: var(--white);
+    cursor: pointer;
+}
+
 
 /*........X.......Footer......X.........*/
 
