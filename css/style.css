@@ -458,9 +458,15 @@ footer.footer .instagram div> img{
 
 footer.footer .follow div i{
     color: var(--white);
-    padding: 0 .4rem;
-    
+    padding: 0 .4rem;  
 }
+
+footer.footer .rights{
+    justify-content: center;
+    font-family: var(--Josefin);
+}
+
+
 
 /*........X.......Footer......X.........*/
 
