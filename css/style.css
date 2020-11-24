@@ -497,6 +497,9 @@ footer.footer .move-up span:hover{
         display: none !important;
 
     }
+    footer.footer .container{
+        grid-template-columns: repeat(2,1fr);
+    }
 }
 /* less or equal to 750px*/
 
@@ -507,5 +510,13 @@ footer.footer .move-up span:hover{
 
     .nav .toggle-collapse{
         display: initial;
+    }
+
+    main .site-content{
+        grid-template-columns: 100%;
+    }
+
+    footer .footer .container{
+        grid-template-columns: repeat(1,1fr);
     }
 }
